@@ -1,4 +1,5 @@
 // Horoscope information <p> are from this site: http://www.123newyear.com/zodiac-signs/
+// :)
 
 // setting each sign variable an object
 var signAquarius = {
