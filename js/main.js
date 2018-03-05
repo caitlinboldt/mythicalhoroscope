@@ -40,27 +40,27 @@ var signLeo = {
 var signVirgo = {
     img: "https://cultureastrology.com/img/virgo.png",
     title: "Virgo",
-    info: "Virgos have a keen sense of good and bad and for that they are highly discriminating. They have an intuitive sense to identify wrong motives in people. Hence, Virgos exercise extreme caution in what they do.The virgin defines purity and therefore they are endowed with the ability to distinguish the good from the bad. Hence, Virgos are also cleanliness freaks. Despite their intelligence Virgos often remain confused about the decisions they make in their life. Also, you will not find Virgos teeming with activities."
+    info: "Virgos have a keen sense of good and bad and for that they are highly discriminating. They have an intuitive sense to identify wrong motives in people. Hence, Virgos exercise extreme caution in what they do. Despite their intelligence Virgos often remain confused about the decisions they make in their life. Also, you will not find Virgos busy with activities."
 }
 var signLibra = {
     img: "https://blog-cdn.californiapsychics.com/horoscope/wp-content/themes/CP-Horoscopes/assets/images/icons/libra.png",
     title: "Libra",
-    info: "Libra is an active sign and members born under the sign are endowed with high energy. But Librans also tend to run out of their energy soon.The Libra is the ‘balance’ and members of this sign have a very balanced mind. They can be found in settling disputes often. Librans always try to maintain harmony and balance. They are also very level headed and have a keen sense for justice. Therefore, their suggestions are often highly sought after by their friends and kins.Librans are two faceted characters. They both have the cheerfulness and darkness in them. Librans have phases of heightened activities but they can easily slip into a phases of complete inactivity and apathy as well."
+    info: "Libra is an active sign and members born under this sign are endowed with high energy. The Libra has a very balanced mind. They can be found settling disputes often. Librans always try to maintain harmony and balance. They are also very level headed and have a keen sense for justice. Therefore, their suggestions are often highly sought after by their friends and kins. Librans have two sides. They both have the cheerfulness and darkness in them. Librans have phases of heightened activities but they can easily slip into a phases of complete inactivity and apathy as well."
 }
 var signScorpio = {
     img: "http://acharyag.com/images/rashi-2.png",
     title: "Scorpio",
-    info: "Scorpions are most diverse in nature and therefore present the most interesting study. Scorpios hold grudge and would wait patiently for the right moment to strike. They are not likely to forget any act of betrayal or treachery. For Scorpios what is implied is more fascinating than the obvious.Scorpios are often described as egoists. However, some of the positive traits of Scorpios are- diplomacy, intuition, intelligence, engaging, resolute, spirituality and sensitivity."
+    info: "Scorpions are most diverse and therefore can be seen as the most interesting of the star signs. Scorpios hold grudges and will wait patiently for the right moment to strike. They are not likely to forget any act of betrayal or treachery. For Scorpios what is implied is more fascinating than the obvious. Positive traits of Scorpios are: diplomacy, intuition, intelligence, engaging, resolute, spirituality and sensitivity."
 }
 var signSagittarius = {
     img: "https://blog-cdn.californiapsychics.com/horoscope/wp-content/themes/CP-Horoscopes/assets/images/icons/sagittarius.png",
     title: "Sagittarius",
-    info: "Sagittarians are the incurable optimists. They are always looking at the positive side of a thing. Their optimism can’t be dampened by hardships or negative results.Sagittarians often are outdoor people. They will take interest in all sorts of sports and outdoor activities. They are also adventures in nature. Although they are true to their faults but can also turn completely deaf to criticism and turn down suggestions."
+    info: "Sagittarians are the incurable optimists. They are always looking for the postive in every situation. Hardships do not ruin their optimism. Sagittarians often are people who love the outdoors. They will find themselves interested in all sorts of sports and outdoor activities. They love to be in nature. As extreme optimists they can also turn completely deaf to criticism and turn down suggestions."
 }
 var signCapricorn = {
     img: "https://blog-cdn.californiapsychics.com/horoscope/wp-content/themes/CP-Horoscopes/assets/images/icons/capricorn.png",
     title: "Capricorn",
-    info: "Members of this sign has an insatiable desire to climb higher and during this course they can also become selfish and might not hesitate to sacrifice other’s interests in fulfilling their goals.Capricorns may seem risk averse but in reality they carefully plan all their moves ahead and rehearse them to perfection."
+    info: "Members of this sign have an insatiable desire to climb higher and sometimes they can become selfish and might not hesitate to sacrifice other’s interests in fulfilling their goals. Capricorns may seem risk averse but in reality they carefully plan all their moves ahead and rehearse them to perfection."
 }
 
 // Press enter to click button
