@@ -1,11 +1,11 @@
-// Horoscope information <p> are from this site: http://www.123newyear.com/zodiac-signs/
+// Horoscope information is from this site: http://www.123newyear.com/zodiac-signs/
 // :)
 
 // setting each sign variable an object
 var signAquarius = {
     img: "https://3.bp.blogspot.com/-tA05Y0kG2Dc/WZrvGHeKINI/AAAAAAAADuA/BhDwOo3YKU0J_hMxZDqBUarrUbDHAtFcACLcBGAs/s320/aquarius-2018-horoscopes.png",
     title: "Aquarius",
-    info: "Aquarians are extremely vulnerable and sensitive. Although you may often find them being surrounded by many friends but in reality they rarely have close friends and acquaintances. Aquarius is a universal sign which makes them public people. Hence Aquarians are often associated with clubs, organizations and forums and enthusiastically participate in intellectual discussions. Aquarians are great communicators as long as they are within their mental realm."
+    info: "Aquarians are extremely vulnerable and sensitive. Although you may often find them being surrounded by many people but in reality they rarely have close friends and acquaintances. Aquarius is a universal sign which makes them public people. Hence Aquarians are often associated with clubs, organizations and forums and enthusiastically participate in intellectual discussions. Aquarians are great communicators as long as they are within their mental realm."
 }
 var signPisces = {
     img: "https://www.the-astrology-of-love.com/wp-content/uploads/2017/02/Pisces.png",
@@ -15,27 +15,27 @@ var signPisces = {
 var signAries = {
     img: "https://www.the-astrology-of-love.com/wp-content/uploads/2017/02/Aries.png",
     title: "Aries",
-    info: "Aries demonstrate strong personality. They have strong leadership qualities and honest and straightforward. Aries often have strong determination and can’t be deterred by failures.Aries are always eager for action. They take up to leadership spontaneously. But they don’t judge the pros and cons of a situation before acting. This also makes them vulnerable."
+    info: "Aries demonstrate a strong personality. They have leadership qualities and are honest and straightforward people. Aries often have a determination that can’t be deterred by failures. Aries are always eager for action. They take up to leadership spontaneously, but they don’t judge the pros and cons of a situation before acting. This also makes them vulnerable."
 }
 var signTaurus = {
     img: "http://www.pngmart.com/files/5/Taurus-PNG-Pic.png",
     title: "Taurus",
-    info: "Taureans are noted for their determination and zeal. It is not easy to distract a Taurian from his goal once he has set his target. He would stay focused on his target and would continuously strive to achieve it.Taureans attach high value to simplicity and functionality. They often live a life that is simple and devoid of luxury."
+    info: "Taureans are noted for their determination and zeal. It is not easy to distract a Taurian from their goal once their target has been set. Taureans attach high value to simplicity and functionality. They often live a life that is simple and devoid of luxury."
 }
 var signGemini = {
     img: "https://blog-cdn.californiapsychics.com/horoscope/wp-content/themes/CP-Horoscopes/assets/images/icons/gemini.png",
     title: "Gemini",
-    info: "Geminis are full of duality. They always look to a situation from dual perspective. Geminis are characterized by inconstancy and dual nature. Geminis therefore always stay confused about their feelings.Geminis however are strong communicators and express good control over language. They are often found to have knowledge over several languages."
+    info: "Geminis are full of duality. They always look to a situation from a dual perspective. Geminis are characterized by inconstancy and dual nature. Geminis therefore always stay confused about their feelings. Geminis however are strong communicators and express good control over language. They are often found to have a knowledge of more than one language."
 }
 var signCancer = {
     img: "https://cultureastrology.com/img/cancer.png",
     title: "Cancer",
-    info: "Cancerians are emotional. Their lives are often inflicted with mood shifts. You can find a Canerian in different moods even during a day.The true emotion of Cancer however is hidden behind their composure. But they are soft creatures and can be hurt easily by unkind words.People of the Cancer zodiac sign can be prone to depression and other mental issues. However, cancers are great family people and enjoy big families around them."
+    info: "Cancerians are emotional. Their lives are often inflicted with mood shifts. You can find a Canerian in different mood even in the same day. The true emotions of Cancer however are hidden behind their composure, but they are soft creatures and can be hurt easily by unkind words. People of the Cancer zodiac sign can be prone to depression and other mental issues. However, cancers are great family people and enjoy a big family."
 }
 var signLeo = {
     img: "https://2.bp.blogspot.com/-ro024bwN9CU/WZbg1McgPmI/AAAAAAAADsI/JhgOR4ih750VP6HNyZvN_oxeNcsygW8GgCLcBGAs/s1600/leo-horoscope-2018.png",
     title: "Leo",
-    info: "Leos are warm spirited. They are full of energy and always eager to jump into action. Leos crave for recognition and admiration. Leos always love to be at the centre of attraction. They strive to reach to the top in whatever they do. Leos always love to be surrounded with large crowd and admirers. However, they are often unkind to criticism and don’t take the words of critics lightly.Leos are very ambitious and choose their acquaintances carefully. They aspire for social recognition."
+    info: "Leos are warm spirited. They are full of energy and always eager to jump into action. Leos crave recognition and admiration. Leos always love to be the center of attraction. They strive to reach to the top in whatever they do. Leos always love to be surrounded with large crowds and admirers. However, they are often unkind to criticism and don’t take the words of critics lightly. Leos are very ambitious and choose their acquaintances carefully. They aspire for social recognition."
 }
 var signVirgo = {
     img: "https://cultureastrology.com/img/virgo.png",
