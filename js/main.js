@@ -30,7 +30,7 @@ var signGemini = {
 var signCancer = {
     img: "https://cultureastrology.com/img/cancer.png",
     title: "Cancer",
-    info: "Cancerians are emotional. Their lives are often inflicted with mood shifts. You can find a Canerian in different mood even in the same day. The true emotions of Cancer however are hidden behind their composure, but they are soft creatures and can be hurt easily by unkind words. People of the Cancer zodiac sign can be prone to depression and other mental issues. However, cancers are great family people and enjoy a big family."
+    info: "Cancerians are emotional. Their lives are often inflicted with mood shifts. You can find a Cancerian in different mood even in the same day. The true emotions of Cancer however are hidden behind their composure, but they are soft creatures and can be hurt easily by unkind words. People of the Cancer zodiac sign can be prone to depression and other mental issues. However, cancers are great family people and enjoy a big family."
 }
 var signLeo = {
     img: "https://2.bp.blogspot.com/-ro024bwN9CU/WZbg1McgPmI/AAAAAAAADsI/JhgOR4ih750VP6HNyZvN_oxeNcsygW8GgCLcBGAs/s1600/leo-horoscope-2018.png",
