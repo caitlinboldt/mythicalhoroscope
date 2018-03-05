@@ -75,62 +75,63 @@ input.addEventListener("keyup", function(event) {
 //function for onclick --> when user clicks button this function runs and matches the input with the correct sign and then outputs the values in blank tags in the HTML
 function getSign() {
     var sign = document.getElementById("inputsign").value
-    if(sign.toLowerCase() == "aquarius") {
+    var lowSign = sign.toLowerCase()
+    if(lowSign == "aquarius") {
         document.getElementById("signimg").src = signAquarius.img
         document.getElementById("sign").innerHTML = signAquarius.title
         document.getElementById("signinfo").innerHTML = signAquarius.info
     } 
-    else if(sign.toLowerCase() == "pisces") {
+    else if(lowSign == "pisces") {
         document.getElementById("signimg").src = signPisces.img
         document.getElementById("sign").innerHTML = signPisces.title
         document.getElementById("signinfo").innerHTML = signPisces.info
     } 
-    else if(sign.toLowerCase() == "aries") {
+    else if(lowSign == "aries") {
         document.getElementById("signimg").src = signAries.img
         document.getElementById("sign").innerHTML = signAries.title
         document.getElementById("signinfo").innerHTML = signAries.info
     } 
-    else if(sign.toLowerCase() == "taurus") {
+    else if(lowSign == "taurus") {
         document.getElementById("signimg").src = signTaurus.img
         document.getElementById("sign").innerHTML = signTaurus.title
         document.getElementById("signinfo").innerHTML = signTaurus.info
     } 
-    else if(sign.toLowerCase() == "gemini") {
+    else if(lowSign == "gemini") {
         document.getElementById("signimg").src = signGemini.img
         document.getElementById("sign").innerHTML = signGemini.title
         document.getElementById("signinfo").innerHTML = signGemini.info
     } 
-    else if(sign.toLowerCase() == "cancer") {
+    else if(lowSign == "cancer") {
         document.getElementById("signimg").src = signCancer.img
         document.getElementById("sign").innerHTML = signCancer.title
         document.getElementById("signinfo").innerHTML = signCancer.info
     } 
-    else if(sign.toLowerCase() == "leo") {
+    else if(lowSign == "leo") {
         document.getElementById("signimg").src = signLeo.img
         document.getElementById("sign").innerHTML = signLeo.title
         document.getElementById("signinfo").innerHTML = signLeo.info
     } 
-    else if(sign.toLowerCase() == "virgo") {
+    else if(lowSign == "virgo") {
         document.getElementById("signimg").src = signVirgo.img
         document.getElementById("sign").innerHTML = signVirgo.title
         document.getElementById("signinfo").innerHTML = signVirgo.info
     } 
-    else if(sign.toLowerCase() == "libra") {
+    else if(lowSign == "libra") {
         document.getElementById("signimg").src = signLibra.img
         document.getElementById("sign").innerHTML = signLibra.title
         document.getElementById("signinfo").innerHTML = signLibra.info
     } 
-    else if(sign.toLowerCase() == "scorpio") {
+    else if(lowSign == "scorpio") {
         document.getElementById("signimg").src = signScorpio.img
         document.getElementById("sign").innerHTML = signScorpio.title
         document.getElementById("signinfo").innerHTML = signScorpio.info
     } 
-    else if(sign.toLowerCase() == "sagittarius") {
+    else if(lowSign == "sagittarius") {
         document.getElementById("signimg").src = signSagittarius.img
         document.getElementById("sign").innerHTML = signSagittarius.title
         document.getElementById("signinfo").innerHTML = signSagittarius.info
     } 
-    else if(sign.toLowerCase() == "capricorn") {
+    else if(lowSign == "capricorn") {
         document.getElementById("signimg").src = signCapricorn.img
         document.getElementById("sign").innerHTML = signCapricorn.title
         document.getElementById("signinfo").innerHTML = signCapricorn.info
