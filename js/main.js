@@ -8,7 +8,7 @@ var signAquarius = {
     info: "Aquarians are extremely vulnerable and sensitive. Although you may often find them being surrounded by many people but in reality they rarely have close friends and acquaintances. Aquarius is a universal sign which makes them public people. Hence Aquarians are often associated with clubs, organizations and forums and enthusiastically participate in intellectual discussions. Aquarians are great communicators as long as they are within their mental realm."
 }
 var signPisces = {
-    img: "/Users/caitlinboldt/Desktop/codify/week07/week7project/img/pisces.png",
+    img: "https://www.the-astrology-of-love.com/wp-content/uploads/2017/02/Pisces.png",
     title: "Pisces",
     info: "Pisceans live in their imaginary world that barely has a connection with the reality. They love to look at the world through a rosy window. When challenged by reality, Pisceans have the tendency to retreat into their world of imagination."
 }
