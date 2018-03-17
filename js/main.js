@@ -74,7 +74,7 @@ input.addEventListener("keyup", function(event) {
 
 //function for onclick --> when user clicks button this function runs and matches the input with the correct sign and then outputs the values in blank tags in the HTML
 function getSign() {
-    var sign = document.getElementById("inputsign").value.toLowerCase()
+    var sign = document.getElementById("inputsign").value
     var lowSign = sign.toLowerCase()
     if(lowSign == "aquarius") {
         document.getElementById("signimg").src = signAquarius.img
@@ -140,3 +140,6 @@ function getSign() {
         alert("Opps! Invalid input. Please try again :)")
     };
 }
+
+
+
